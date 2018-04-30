@@ -1,3 +1,47 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the header of the site/application.
 // -----------------------------------------------------------------------------
+
+
+.app-header {
+  padding-top: 1rem;
+
+  &__colors {
+    display: flex;
+
+    div {
+      width: 28px;
+      height: 2px;
+      margin-right: 3px;
+    }
+
+    .analog-3 {
+      background: $color-analog-3;
+    }
+
+    .analog-1 {
+      background: $color-analog-1;
+    }
+
+    .brand {
+      background: $color-brand;
+    }
+
+    .analog-2 {
+      background: $color-analog-2;
+    }
+
+    .compl-1 {
+      background: $color-compl-1;
+    }
+
+    .opposite {
+      background: $color-opposite;
+    }
+
+    .compl-2 {
+      background: $color-compl-2;
+    }
+
+  }
+}

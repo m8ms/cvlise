@@ -30,12 +30,18 @@ $color-red: rgb(233, 0, 0) !default;
 
 /// Background color
 /// @type Color
-$color-background: rgb(0, 0, 0) !default;
+$color-background: #111 !default;
 
 
 /// Main brand color
 /// @type Color
-$color-brand: $color-red !default;
+$color-analog-3: #6801b1 !default;
+$color-analog-1: #2802d1 !default;
+$color-brand: #0288D1 !default;
+$color-analog-2: #028734 !default;
+$color-compl-1: #d17b02 !default;
+$color-opposite: #d14702 !default;
+$color-compl-2: #d11302 !default;
 
 /// Copy text color
 /// @type Color

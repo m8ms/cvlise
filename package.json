@@ -1,7 +1,7 @@
 {
-    "name": "helium-4-ux-polandball",
+    "name": "cvlise",
     "version": "1.0.0",
-    "description": "Polandball",
+    "description": "some cvs here",
     "main": "dist/app.js",
     "scripts": {
         "start": "webpack-dev-server --mode development --config ./webpack.dev.config.js",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/m8ms/polandball.git"
+        "url": "https://github.com/m8ms/cvlise.git"
     },
     "keywords": [],
     "author": "",
@@ -18,7 +18,7 @@
     "bugs": {
         "url": ""
     },
-    "homepage": "https://github.com/m8ms/polandball#readme",
+    "homepage": "https://github.com/m8ms/cvlise#readme",
     "devDependencies": {
         "babel-core": "^6.26.0",
         "babel-eslint": "^8.2.2",
@@ -61,6 +61,7 @@
         "alt-container": "^1.1.1",
         "alt-utils": "^2.0.0",
         "axios": "^0.18.0",
+        "material-ui": "^1.0.0-beta.43",
         "moment": "^2.22.1",
         "react": "^16.3.1",
         "react-dom": "^16.3.1",

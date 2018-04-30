@@ -4,7 +4,8 @@
 
 
 body {
-  padding: 1rem 1.5rem;
+  padding: 0 1.5rem;
+  letter-spacing: 0.0625rem;
 }
 
 #app {
@@ -12,6 +13,6 @@ body {
   margin: 0 auto ;
 }
 
-.appContent {
+.app-content {
   margin-top: 1.5rem
 }

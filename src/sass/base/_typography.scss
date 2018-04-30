@@ -15,3 +15,11 @@ body {
 h4 {
   font-weight: normal;
 }
+
+h1 {
+  margin-top: 0;
+
+  strong {
+    color: $color-brand;
+  }
+}
